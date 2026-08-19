@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anthony (@Acortez5)
 - 👀 I’m interested in programming for video games.
-- 🌱 I’m currently refreshing my skills in python.
+- 🌱 I’m currently taking courses in artificial intelligence and machine learning.
 - 💞️ I’m looking to collaborate on projects that will help develop my skills in making games.
 - 📫 How to reach me by email: Anthony.Cortez0424@gmail.com
 
